@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1533450189 source:d:\my projects\one line game\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<ctime>
+
